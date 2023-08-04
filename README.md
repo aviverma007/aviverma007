@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQFax8K5pFcqUw/profile-displaybackgroundimage-shrink_350_1400/0/1632265093435?e=1685577600&v=beta&t=bsxcpzxnVeLXd0D1MpJPKiKKAOK4S-ehM2zQZmaGstM)](https://nikhilmaurya26.io)
+
 
 <h1 align="center">Hi 👋, I'm Anirudh Verma</h1>
 <h3 align="center">A passionate Android developer from India</h3>
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anirudh1920" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anirudh1920/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anirudh1920" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anirudh1920 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anirudh1920" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anirudh1920 " height="30" width="40" /></a>
 </p>
 
