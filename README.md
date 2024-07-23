@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **React Websites**
 
-- 🌱 I’m currently learning **Java , Kotlin, React , HTML , CSS , JavaScript, NodeJs**
+- 🌱 I’m currently learning **Java , Kotlin, React , HTML , CSS , JavaScript, NodeJs,Cloud Computing**
 
-- 💬 Ask me about **Android and Frontend**
+- 💬 Ask me about **DevOps and Sftware development**
 
 - 📫 How to reach me **avi1997verma@gmail.com**
 
