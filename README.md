@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Anirudh Verma</h1>
-<h3 align="center">A passionate Frontend & Android developer from India</h3>
+<h3 align="center">A passionate DevOps eng. & Software Developer from India</h3>
 
 
 
 
-- 🔭 I’m currently working on **React Websites**
+- 🔭 I’m currently working on **Devops**
 
 - 🌱 I’m currently learning **Java , Kotlin, React , HTML , CSS , JavaScript, NodeJs,Cloud Computing**
 
